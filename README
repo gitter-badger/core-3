@@ -6,3 +6,5 @@ configuration files, and recipes for building a cross-compilation toolchain.
 
 OE-lite is an embedded Linux build system,
 See http://oe-lite.org for more information.
+
+Join the chat at https://gitter.im/oe-lite/core
